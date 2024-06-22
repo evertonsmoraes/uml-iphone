@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Device","l":"AparelhoTelefonico"},{"p":"Aparelho","l":"Iphone"},{"p":"Aparelho","l":"IpodShuffle"},{"p":"Device","l":"NavegadorNaInternet"},{"p":"Aparelho","l":"Nokia2280"},{"p":"Loja","l":"Produtos"},{"p":"Device","l":"ReprodutorMusical"}];updateSearchResults();
