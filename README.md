@@ -7,7 +7,7 @@
 
 <table>
     <tr><td width=900px>
-    <h1> UML desenvolvido</h1>
+    <h1> UML Desenvolvido</h1>
     
 ```mermaid
 classDiagram
