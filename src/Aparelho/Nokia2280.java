@@ -1,7 +1,15 @@
 package Aparelho;
 
 import Device.AparelhoTelefonico;
-
+/**
+	* <h1>Nokia2280 </h1>
+	*Classe que simula um 'Nokia2280', implemtando interface: 'AparelhoTelefonico'
+	* 
+	* <b>Note:</b> Projeto Módulo "Modelando o iPhone com UML: Funções de Músicas, Chamadas e Internet" do BootCamp Santander 2024 - Backend com Java"
+	* @author  Everton Moraes
+	* @version 1.0
+	* @since   22/06/2024
+	*/
 public class Nokia2280 implements AparelhoTelefonico {
 
     private String numeroLinhaTefonica;

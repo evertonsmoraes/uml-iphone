@@ -3,7 +3,15 @@ package Loja;
 import Aparelho.Iphone;
 import Aparelho.IpodShuffle;
 import Aparelho.Nokia2280;
-
+/**
+	* <h1>Produtos </h1>
+	*Simulação de uma Loja que disponha de produtos do tipo Aparelho Telefonico, Reprodutor de Musica e Navegador de Internet, onde foram criados aparelhos que possuem estas caracteristicas/funcões atraves de interfaces
+	* 
+	* <b>Note:</b> Projeto Módulo "Modelando o iPhone com UML: Funções de Músicas, Chamadas e Internet" do BootCamp Santander 2024 - Backend com Java"
+	* @author  Everton Moraes
+	* @version 1.0
+	* @since   22/06/2024
+	*/
 public class Produtos {
     public static void main(String[] args) {
         
