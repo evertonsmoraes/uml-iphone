@@ -11,7 +11,7 @@
     
 ```mermaid
 classDiagram
-class Iphone  
+ 
 class ReprodutorMusical {
  +String nome
   +abrir()
@@ -63,7 +63,7 @@ ReprodutorMusical <|-- Iphone
 AparelhoTelefonico <|-- Iphone
 NavegadorInternet <|-- Iphone
 
-<<Possui Javadoc>> Iphone
+
 
 class Nokia2280 {
   -String numeroLinhaTefonica
