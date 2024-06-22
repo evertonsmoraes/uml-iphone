@@ -2,7 +2,7 @@
  **Este é a entrega do projeto do módulo "Modelando o iPhone com UML: Funções de Músicas, Chamadas e Internet"**  | 
  --- |
  
- <a href="#" target="_blank">Documentação do Projeto Desenvolvido</a>
+ <a href="https://evertonsmoraes.github.io/uml-iphone/" target="_blank">Documentação do Projeto Desenvolvido</a>
  #### Repositório do Projeto Proposto: <a href="https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe" target="_blank">https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe</a>
 
 <table>
