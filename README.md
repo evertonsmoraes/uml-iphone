@@ -63,6 +63,8 @@ ReprodutorMusical <|-- Iphone
 AparelhoTelefonico <|-- Iphone
 NavegadorInternet <|-- Iphone
 
+note for Iphone "Documentação Completa Gerada"
+
 class Nokia2280 {
   -String numeroLinhaTefonica
   -String nome
