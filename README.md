@@ -63,7 +63,7 @@ ReprodutorMusical <|-- Iphone
 AparelhoTelefonico <|-- Iphone
 NavegadorInternet <|-- Iphone
 
-note for Iphone "Documentação Completa Gerada"
+<<Possui Javadoc>> Iphone
 
 class Nokia2280 {
   -String numeroLinhaTefonica
