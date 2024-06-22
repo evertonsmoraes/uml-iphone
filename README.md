@@ -6,7 +6,7 @@
  #### Repositório do Projeto Proposto: <a href="https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe" target="_blank">https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe</a>
 
 <table>
-    <tr><td width=900px>
+    <tr><td width=1000px>
     <h1> UML Desenvolvido</h1>
     
 ```mermaid
